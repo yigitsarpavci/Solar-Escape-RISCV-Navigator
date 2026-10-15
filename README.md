@@ -35,6 +35,18 @@ A bare-metal **RISC-V (RV32I)** assembly simulation modeling fuel-constrained au
 
 > *Due to a catastrophic solar flare event, sunlight reaching Earth contains lethal radiation. The sole path to survival is to remain perpetually under the cover of night by flying relentlessly westward. Taking off from Brussels aboard an overnight cargo flight, your objective is to navigate from airport to airport across global waypoints, refueling within local tank and supply constraints, and surviving until no reachable westward route remains.*
 
+<details>
+<summary><b>Click to expand Mission Briefing & Specification Slides</b></summary>
+<br>
+<p align="center">
+  <img src="docs/images/1.png" alt="Mission Scenario" width="49%">
+  <img src="docs/images/2.png" alt="Mathematical Requirements" width="49%">
+  <br><br>
+  <img src="docs/images/3.png" alt="Subroutine Calling Requirements" width="49%">
+  <img src="docs/images/4.png" alt="Reference C Architecture" width="49%">
+</p>
+</details>
+
 ---
 
 ## Key Features
